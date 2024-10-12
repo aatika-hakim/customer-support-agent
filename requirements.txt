@@ -1,1 +1,6 @@
 streamlit
+openai
+Ipython
+langgraph
+langchain_openai
+python-dotenv
